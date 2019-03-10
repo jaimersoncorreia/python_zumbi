@@ -1,5 +1,6 @@
-# python_zumbi
-Python Para Zumbis - Turma II - Gratuita
+# Python Para Zumbis
+Turma II - Gratuita
+site das aulas http://pingmind.com.br/classes/142/lessons/
 
 
 - [x] **Inscreve-se no curso**
