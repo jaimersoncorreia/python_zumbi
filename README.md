@@ -12,7 +12,9 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
   - [x] Declarando nossas primeiras variáveis
   - [x] Operadores Relacionais e lógicos
   - [x] Imprimindo nossos dados na tela
-  - [ ] Entendendo conceitos sobre linguagem dinâmica e tipagem forte
+  - [x] Entendendo conceitos sobre linguagem dinâmica e tipagem forte
+    - [x] Dinâmica, forte e múltipla video
+	- [x] Teste de Mesa ou Simulação
   - [ ] Entrada de Dados
   - [ ] Comentários e Resolução de Exercícios
 ---
