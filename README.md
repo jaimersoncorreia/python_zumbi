@@ -15,6 +15,6 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
   - [x] Entendendo conceitos sobre linguagem dinâmica e tipagem forte
     - [x] Dinâmica, forte e múltipla video
 	- [x] Teste de Mesa ou Simulação
-  - [ ] Entrada de Dados
+  - [x] Entrada de Dados
   - [ ] Comentários e Resolução de Exercícios
 ---
