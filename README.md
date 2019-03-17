@@ -17,4 +17,9 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
 	- [x] Teste de Mesa ou Simulação
   - [x] Entrada de Dados
   - [ ] Comentários e Resolução de Exercícios
+    - [x] Comentários e exercício 2 elevado a um milhão
+    - [ ] I Lista de Exercícios comentada
+    - [ ] Arquivos - Exercícios comentados - Lista I
 ---
+
+
