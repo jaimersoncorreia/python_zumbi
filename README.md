@@ -6,7 +6,7 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
 
 - [x] **Inscreve-se no curso**
 ---
-- [ ]  **Começando com o básico**
+- [x]  **Começando com o básico**
   - [x] Apresentação e Motivação expandir
   - [x] Hello World Interativo expandir
   - [x] Declarando nossas primeiras variáveis
@@ -16,10 +16,26 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
     - [x] Dinâmica, forte e múltipla video
 	- [x] Teste de Mesa ou Simulação
   - [x] Entrada de Dados
-  - [ ] Comentários e Resolução de Exercícios
+  - [x] Comentários e Resolução de Exercícios
     - [x] Comentários e exercício 2 elevado a um milhão
-    - [ ] I Lista de Exercícios comentada
-    - [ ] Arquivos - Exercícios comentados - Lista I
+    - [x] I Lista de Exercícios comentada
+    - [x] Arquivos - Exercícios comentados - Lista I
 ---
-
-
+- [ ] ** Mastigando estruturas de controle**
+  - [ ] Criando condições em seu programa
+    - [ ] Condições
+    - [ ] Else
+    - [ ] Estruturas aninhadas
+    - [ ] elif
+  - [ ] Repetições
+    - [ ] Repetições
+    - [ ] Inteiros até um fim
+    - [ ] Pares com módulo
+    - [ ] Acumuladores
+    - [ ] Média de 10 números inteiros
+    - [ ] Fatorial e Break
+    - [ ] Repetições aninhadas
+  - [ ] Comentários e Resolução de Exercício
+    - [ ] Maior de três inteiros
+    - [ ] Exercícios da lata de tinta
+    - [ ] II Lista de Exercícios comentada
