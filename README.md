@@ -22,11 +22,11 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
     - [x] Arquivos - Exercícios comentados - Lista I
 ---
 - [ ] **Mastigando estruturas de controle**
-  - [ ] Criando condições em seu programa
-    - [ ] Condições
-    - [ ] Else
-    - [ ] Estruturas aninhadas
-    - [ ] elif
+  - [x] Criando condições em seu programa
+    - [x] Condições
+    - [x] Else
+    - [x] Estruturas aninhadas
+    - [x] elif
   - [ ] Repetições
     - [ ] Repetições
     - [ ] Inteiros até um fim
