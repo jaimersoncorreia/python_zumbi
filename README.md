@@ -28,8 +28,8 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
     - [x] Estruturas aninhadas
     - [x] elif
   - [ ] Repetições
-    - [ ] Repetições
-    - [ ] Inteiros até um fim
+    - [x] Repetições
+    - [x] Inteiros até um fim
     - [ ] Pares com módulo
     - [ ] Acumuladores
     - [ ] Média de 10 números inteiros
