@@ -30,8 +30,8 @@ site das aulas http://pingmind.com.br/classes/142/lessons/
   - [ ] Repetições
     - [x] Repetições
     - [x] Inteiros até um fim
-    - [ ] Pares com módulo
-    - [ ] Acumuladores
+    - [x] Pares com módulo
+    - [x] Acumuladores
     - [ ] Média de 10 números inteiros
     - [ ] Fatorial e Break
     - [ ] Repetições aninhadas
